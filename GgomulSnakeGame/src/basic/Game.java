@@ -1,8 +1,5 @@
 package basic;
 
-// TO-DO
-// food / snake / ggo 중첩시 먹이가 사라지는 현상 해결
-
 import java.awt.Graphics;
 import java.awt.event.ActionEvent;
 import java.awt.event.KeyEvent;
